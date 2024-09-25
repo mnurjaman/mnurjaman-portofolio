@@ -3,15 +3,15 @@ import Links from '@/components/links'
 export default function Home() {
   return (
     <div className="font-base">
-      <h1 className="text-2xl font-heading sm:text-4xl">John Doe</h1>
+      <h1 className="text-2xl font-heading sm:text-4xl">Muhammad Nurjaman</h1>
       <p className="mt-2 text-lg sm:text-xl">Software Engineer</p>
       <div className="mt-8 text-base sm:text-lg">
-        <p>Hi, my name is John Doe, software engineer based in NYC.</p>
+        <p>Hi, my name is Muhammad Nurjaman, software engineer based in Jakarta-Indonesia.</p>
 
         <br />
 
         <p>
-          This is the neobrutalism portfolio template. Check the{' '}
+          This's my portofolio please. Check the{' '}
           <a
             target="_blank"
             className="font-heading underline"
